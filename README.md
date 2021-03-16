@@ -1,3 +1,3 @@
-# Edge Applications
+# Demo Applications
 ### This repository is used for deploying applications through GitOps
 
