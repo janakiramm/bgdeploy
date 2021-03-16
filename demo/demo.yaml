@@ -35,11 +35,11 @@ spec:
     metadata:
       labels:
         app: demo
-        version: v1
+        version: v2
     spec:
       containers:
       - name: myapp
-        image: janakiramm/myapp:v1
+        image: janakiramm/myapp:v2
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80  
